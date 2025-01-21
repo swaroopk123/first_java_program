@@ -15,7 +15,7 @@ public class solution {
 			
 			System.out.println(i*j);
 
-			count+=i*j;
+			//count+=i*j;
 		}
 		System.out.println(count);
 	}
